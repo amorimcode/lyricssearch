@@ -20,7 +20,7 @@ async function doSubmit() {
         if (data.lyrics) 
             lyrics_el.innerHTML = data.lyrics;
          else 
-            lyrics_el.innerHTML = data.error;
+            lyrics_el.innerHTML = "Lyrics not found. Try to write it in another way.";
      
     } catch (err) {
         console.log(err);
