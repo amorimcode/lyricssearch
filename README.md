@@ -2,7 +2,7 @@
 
 
 Lyrics search page made with JavaScript and HTML/css.
-You can try it in this [Link](https://amorimcode.github.io/lyricssearch/)
+You can try it in this [link.](https://amorimcode.github.io/lyricssearch/)
 
 
 
